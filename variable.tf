@@ -10,7 +10,7 @@ variable "instance_type" {
 }
 
 variable "instance_name" {
-        default = "Kavya"
+        default = "webbe"
 }
 
 variable "aws_ami" {
