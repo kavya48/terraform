@@ -30,7 +30,4 @@ variable "aws_access_key" {
 variable "aws_secret_key" {
         default = "1YOm5zcEOECIlZ3/sD1sMqX3LvhwwYETiSUGUj3/"
 }
-~
-~
-~
-~
+
